@@ -1,0 +1,7 @@
+# Brewery-Sales
+Data provided from distributor for the sales of a local brewery. 
+The distributor provided the number of case equivalents sold to each relevant entity by month for the last year in addition to the number of case equivalents sold daily for 120 days. Distributor was unable to provide daily data exceeding 120 days which affected analysis. Code utilized in python to melt the file, and just deleted irrelevant data in excel and renamed months/days using click and drag in excel before utilizing python. Source files attached here.
+
+
+[eccentric beer sales.xlsx](https://github.com/sffoster/Brewery-Sales/files/6869984/eccentric.beer.sales.xlsx)
+[Eccentric Rolling Month report.xlsx](https://github.com/sffoster/Brewery-Sales/files/6869971/Eccentric.Rolling.Month.report.xlsx)
